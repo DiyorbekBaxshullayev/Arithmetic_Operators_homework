@@ -3,3 +3,7 @@
 #Find the reverse of the number and assign it to a variable called 'answer'.
 
 #Print the answer variable
+
+number=23
+
+print (1/number)
