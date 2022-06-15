@@ -4,6 +4,6 @@
 
 #Print the answer variable
 
-number=23
+number=53
 
-print (1/number)
+print (number%10*10+number//10)
