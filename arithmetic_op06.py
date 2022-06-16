@@ -7,3 +7,12 @@
 #Print the answer.
  
 #Print the number.
+
+number=243
+print(int(number))
+
+x=number/2
+print(x)
+
+answer=x%2
+print(answer)
