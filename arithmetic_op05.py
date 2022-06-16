@@ -6,6 +6,6 @@
  
 #Print the answer
 
-number=122
+number=125.7
 answer=number%3
-print(answer)
+print(int(answer))
