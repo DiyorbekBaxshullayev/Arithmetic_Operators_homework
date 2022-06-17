@@ -4,6 +4,8 @@
 
 #Print answer.
 
-x=43
+number=43
 
-print (x%10+x//10)
+answer=number%10+number//10
+
+print (answer)
