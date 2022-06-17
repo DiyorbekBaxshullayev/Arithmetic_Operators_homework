@@ -7,5 +7,6 @@
 #Print the answer
 
 number=125.7
+print(int(number))
 answer=number%3
-print(int(answer))
+print(answer)
