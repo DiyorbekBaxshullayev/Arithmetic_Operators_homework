@@ -6,4 +6,6 @@
 
 number=53
 
-print (number%10*10+number//10)
+answer=number%10*10+number//10
+
+print (answer)
