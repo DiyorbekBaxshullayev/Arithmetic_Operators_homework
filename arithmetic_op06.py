@@ -9,6 +9,10 @@
 #Print the number.
 
 number=243
+print(number)
 
-answer=number%2
+x=number/2
+print(x)
+
+answer=x%2
 print(answer)
