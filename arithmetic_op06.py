@@ -9,8 +9,6 @@
 #Print the number.
 
 number=243
-
-
 number/=2
 
 answer=number%2
