@@ -11,8 +11,7 @@
 number=243
 print(number)
 
-x=number/2
-print(x)
 
-answer=x%2
+
+answer=number%2
 print(answer)
